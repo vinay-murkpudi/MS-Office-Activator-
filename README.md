@@ -5,6 +5,7 @@
 #  Archive password: 2025
 
 
+
 Microsoft Office is a suite of productivity software developed by Microsoft. It includes a variety of applications that are designed to help users create documents, spreadsheets, presentations, and manage emails. The most commonly used programs in the Office suite are:
 
 Microsoft Word: A word processing application for creating and editing text documents. Microsoft Excel: A spreadsheet application used for data analysis, calculations, and visualization. Microsoft PowerPoint: A tool for creating presentations with slides, text, images, and multimedia. Microsoft Outlook: An email client that also manages calendars, tasks, and contacts. Microsoft Access: A database management system for creating and managing databases. Microsoft OneNote: A note-taking application for capturing ideas, images, and handwritten notes. Microsoft Publisher: A desktop publishing tool for creating brochures, flyers, and newsletters.
